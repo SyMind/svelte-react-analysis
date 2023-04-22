@@ -59,3 +59,13 @@ taro init svelte-initial-app
 ```
 
 安装 [Tarojs Plugin Svelte](https://github.com/SyMind/tarojs-plugin-svelte)，根据插件文档修改项目的配置，并修改代码。
+
+# 结果
+
+## 打包体积
+
+|        | 初始项目   |
+| ------ | ---------- |
+| Svelte | 178kb ⭐️ |
+| React  | 307kb      |
+| PReact | 193kb      |
