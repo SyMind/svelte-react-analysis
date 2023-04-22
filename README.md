@@ -4,6 +4,8 @@
 
 ### 1. 初始项目比较
 
+根据下面步骤来初始化 React、PReact 和 Svelte 项目，分别执行 `taro build --type weapp` 命令，比较各 `dist` 目录的体积。
+
 #### React 初始化步骤
 
 ```bash
