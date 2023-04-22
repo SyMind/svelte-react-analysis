@@ -58,4 +58,4 @@ taro init svelte-initial-app
 请选择模板              默认模板
 ```
 
-安装 [Tarojs Plugin Svelte](https://github.com/SyMind/tarojs-plugin-svelte)，并根据其文档修改项目的配置。
+安装 [Tarojs Plugin Svelte](https://github.com/SyMind/tarojs-plugin-svelte)，根据插件文档修改项目的配置，并修改代码。
