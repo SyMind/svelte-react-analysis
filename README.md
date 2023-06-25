@@ -60,7 +60,7 @@ taro init svelte-initial-app
 请选择模板              默认模板
 ```
 
-安装 [Tarojs Plugin Svelte](https://github.com/SyMind/tarojs-plugin-svelte)，根据插件文档修改项目的配置，并修改代码。
+再安装 [Taro Svelte 插件](https://github.com/SyMind/tarojs-plugin-svelte)，根据插件文档修改项目的配置，并修改代码。
 
 # 结果
 
@@ -68,6 +68,6 @@ taro init svelte-initial-app
 
 |        | 初始项目   |
 | ------ | ---------- |
-| Svelte | 178kb ⭐️ |
+| Svelte | 169kb ⭐️ |
 | React  | 307kb      |
 | PReact | 193kb      |
